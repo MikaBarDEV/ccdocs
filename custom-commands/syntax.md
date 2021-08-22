@@ -18,7 +18,7 @@ The bot will only trigger commands, when it can see the channel! Make sure the b
 Also, check out the page below for settings that might be a problem for your commands!
 {% endhint %}
 
-{% page-ref page="settings.md" %}
+page reference: {% page-ref page="settings.md" %}
 
 **Default syntax's, unique to our bot:**
 
